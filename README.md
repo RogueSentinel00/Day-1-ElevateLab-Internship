@@ -6,12 +6,15 @@ DAY 1 – INTERNSHIP
 Tasks Performed:
 
 .Downloaded Nmap on Linux using the terminal.
+
 .Performed a TCP SYN Scan on my own IP using: Command: nmap -sS 192.168.208.64
 Discovered open ports:
 FTP (Port 21)
 SSH (Port 22)
 HTTP-Proxy (Port 8080)
+
 .Captured network packets using Wireshark for analysis.
+
 .Service and Port Analysis:
 
 ➤ FTP – Port 21
